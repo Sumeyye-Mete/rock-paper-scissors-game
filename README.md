@@ -15,6 +15,6 @@ Here are a couple of screenshots from my project:
 - SCSS
 
 
-=>git clone https://github.com/Sumeyye-Mete/Rock-Paper-Scissors-Game.git
+=>git clone https://github.com/Sumeyye-Mete/rock-paper-scissors-game.git
 
-=> live site URL https://sumeyye-mete.github.io/Rock-Paper-Scissors-Game/
+=> live site URL  https://sumeyye-mete.github.io/rock-paper-scissors-game/
