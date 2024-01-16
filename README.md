@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors-Game
+# rock-paper-scissors-game
 
 Welcome to my web page project, where I've used HTML, JavaScript, and SCSS to create a simple rock, paper, scissors game. 
 
